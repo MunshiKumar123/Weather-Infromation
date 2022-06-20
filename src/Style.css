@@ -1,0 +1,11 @@
+.stu {
+    background-color: #6588C8;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    font-weight: bold;
+    display: inline-block;
+    margin: 5px 5px;
+    padding: 40px;
+    border-radius: 25px;
+    font-size: 30px;
+}
